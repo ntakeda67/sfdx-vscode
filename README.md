@@ -3,4 +3,7 @@
     - https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex
 - with trailhead module.
     - https://trailhead.salesforce.com/ja/modules/apex_patterns_sl/units/apex_patterns_sl_apply_sl_principles
+- Powered by.
+    - https://github.com/financialforcedev/fflib-apex-common/
+    - https://github.com/financialforcedev/fflib-apex-mocks
 

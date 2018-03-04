@@ -21,6 +21,11 @@
             "label": "report",
             "type": "shell",
             "command": "sfdx force:mdapi:deploy:report"
-        }
+        },
+        {
+            "label": "retrieve",
+            "type": "shell",
+            "command": "sfdx force:mdapi:retrieve -s -r ./mdapipkg"
+        },
     ]
 }
