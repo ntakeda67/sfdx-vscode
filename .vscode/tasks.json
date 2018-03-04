@@ -15,7 +15,8 @@
         {
             "label": "deploy",
             "type": "shell",
-            "command": "sfdx force:mdapi:deploy -u OrgSettings -d mdformat -w 2 --verbose"
+            "command": "sfdx force:mdapi:deploy -u OrgSettings -d mdformat -w 2 --verbose",
+            "dependsOn": ["convert"]
         },
         {
             "label": "report",
